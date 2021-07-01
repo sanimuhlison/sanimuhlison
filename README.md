@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Sani 👋
 
-<!--
-**sanimuhlison/sanimuhlison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a DevOps Engineer, sometimes i write on [medium][medium].
+
+
+
+## LIKE
+
+- Terraform
+- AWS & GCP
+- Kubernetes
+- Create tools for automation
+
+
+## Some of my articles
+
+- [Terraform][medium_terraform]
+- [Kubernetes][medium_kubernetes]
+
+
+### Connect with me:
+
+[<img align="left" alt="sanimuhlison | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[medium]: https://img.shields.io/badge/DevOps-Engineer-blue
+[linkedin]: https://www.linkedin.com/in/sani-muhlison/
+[medium_terraform]: https://sanimuhlison.medium.com/terraform-untuk-pemula-dccf947817c5
+[medium_kubernetes]: https://medium.com/sannycloud/apa-itu-kubernetes-k8s-af4e68f7c358
